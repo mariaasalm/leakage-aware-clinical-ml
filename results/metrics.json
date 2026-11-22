@@ -1,0 +1,18 @@
+{
+  "row_split_rf (LEAKY)": {
+    "auroc": 0.982796777625779,
+    "auprc": 0.9628948336188279
+  },
+  "patient_split_rf": {
+    "auroc": 0.7129768961848305,
+    "auprc": 0.48866924137778295
+  },
+  "patient_split_logreg": {
+    "auroc": 0.8562319501443989,
+    "auprc": 0.740715695111663
+  },
+  "nested_patient_rf": {
+    "auroc": 0.74406140750874,
+    "auprc": 0.5795440830257008
+  }
+}
